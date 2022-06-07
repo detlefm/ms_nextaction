@@ -49,10 +49,8 @@ Param(
         1
 
         .LINK
-        Online version: http://www.fabrikam.com/extension.html
+        Online version: https://github.com/detlefm/ms_nextaction
 
-        .LINK
-        Set-Item
     #>
 
 
